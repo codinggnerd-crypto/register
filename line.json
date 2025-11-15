@@ -1,0 +1,10 @@
+{
+    "$schema": "../schemas/domain.schema.json",
+    "domain": "line.is-a.dev",
+    "owner": {
+        "email": "youremail@example.com"
+    },
+    "records": {
+        "CNAME": "codinggnerd-crypto.github.io"
+    }
+}
